@@ -26,5 +26,3 @@ Intuitive controls for smooth movement and shooting
 GUI menus  
 Score, bullet, enemy tracking and timer system  
 Diverse enemy types and sizes  
-
-=======
