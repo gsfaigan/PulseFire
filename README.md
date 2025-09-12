@@ -13,11 +13,6 @@ It exists solely to showcase my personal programming and design work.
 
 ---
 
-## 📌 Disclaimer  
-This repository is not intended for commercial use or public distribution.  
-
----
-
 # 🎮 Game Overview  
 In Pulsefire, you control a player character navigating through enemy-filled arenas, avoiding hazards, and completing objectives to advance to the next level.  
 The game features:  
