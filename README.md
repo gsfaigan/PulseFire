@@ -17,7 +17,7 @@ Diverse enemy types and sizes
 
 ### 🛠️ How to Install  
 
-Download the latest JAR file from this repository.  
+Download the latest JAR file from the releases section.  
 Make sure Java 17 or later is installed on your system.  
 Double-click the JAR file to run the game.  
 If double-clicking doesn’t work, run via terminal or command prompt after navigating to the directory where the file was downloaded:  
