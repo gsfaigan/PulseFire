@@ -4,8 +4,8 @@ I designed and developed this project entirely from scratch, including the code,
 
 ---
 
-### 🎮 Game Overview  
-In PulseFire, you control a player character navigating through enemy-filled arenas, avoiding hazards, and completing objectives to advance to the next level.  
+### Game Overview  
+In PulseFire, you control a player character navigating through enemy-filled stages to advance to the next level.  
 The game features:  
 24 unique levels with increasing difficulty  
 Intuitive controls for smooth movement and shooting  
@@ -15,7 +15,7 @@ Diverse enemy types and sizes
 
 ---
 
-### 🛠️ How to Install  
+### How to Install  
 
 Download the latest JAR file from the releases section.  
 Make sure Java 17 or later is installed on your system.  
@@ -27,9 +27,9 @@ java -jar Pulsefire.jar
 
 ---
 
-### 🚫 Important Notice and Disclaimer  
+### Important Notice and Disclaimer  
 
-This project is published **for educational and portfolio purposes only**.  
-Please **do not copy, redistribute, or plagiarize** any part of this code, visuals, or design.  
-This repository is **not intended for commercial use or public distribution.**  
-It exists solely to showcase my personal programming and design work.  
+For Educational and Portfolio Use Only  
+Please do not copy, redistribute, or plagiarize any code, visuals, or design.  
+Not for commercial use or public distribution.  
+This repository exists to showcase my personal programming and design work.
