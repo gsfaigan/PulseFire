@@ -1,6 +1,6 @@
 # PulseFire  
 PulseFire is a Java-based 2D shooter game with 24 levels, custom visuals, and a full GUI with menus.  
-I designed and developed this project entirely from scratch, including the code, visuals, gameplay mechanics, and level design.  
+I designed and developed this project entirely from scratch, including the code, visuals, gameplay mechanics, and level design. No AI was used!  
 
 ---
 
